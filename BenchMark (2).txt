@@ -1,0 +1,754 @@
+﻿大陆央视
+CCTV4K#cctv-4k,CCTV4K,CCTV-4K超高清,CCTV-4K
+
+CCTV1#cctv1,CCTV1,cctv-1,cctv-1,CCTV-1高清
+CCTV2#cctv2,CCTV2,cctv-2,cctv-2,CCTV-2高清
+CCTV3#cctv3,CCTV3,cctv-3,cctv-3,CCTV-3高清
+CCTV4#cctv4,CCTV4,cctv-4,cctv-4,CCTV-4高清
+CCTV5#cctv5,CCTV5,cctv-5,cctv-5,CCTV-5高清
+CCTV5+#cctv5+,CCTV5+,cctv-5+,cctv-5+,CCTV-5+高清
+CCTV6#cctv6,CCTV6,cctv-6,cctv-6,CCTV-6高清
+CCTV7#cctv7,CCTV7,cctv-7,cctv-7,CCTV-7高清
+CCTV8#cctv8,CCTV8,cctv-8,cctv-8,CCTV-8高清
+CCTV9#cctv9,CCTV9,cctv-9,cctv-9,CCTV-9高清
+CCTV10#cctv10,CCTV10,cctv-10,cctv-10,CCTV-10高清
+CCTV11#cctv11,CCTV11,cctv-11,cctv-11,CCTV-11高清
+CCTV12#cctv12,CCTV12,cctv-12,cctv-12,CCTV-12高清
+CCTV13#cctv13,CCTV13,cctv-13,cctv-13,CCTV-13高清
+CCTV14#cctv14,CCTV14,cctv-14,cctv-14,CCTV-14高清
+CCTV15#cctv15,CCTV15,cctv-15,cctv-15,CCTV-15高清
+CCTV16#cctv16,CCTV16,cctv-16,cctv-16,CCTV-16高清
+CCTV17#cctv17,CCTV17,cctv-17,cctv-17,CCTV-17高清
+CGTN#cgtn,CGTN,
+大陆省市
+陕西卫视#陕西卫视,陕西卫视,陕西卫视高清
+农林卫视#农林卫视
+东方卫视#东方卫视,东方卫视,东方卫视高清
+湖南卫视#湖南卫视,湖南卫视,湖南卫视高清
+金鹰纪实#金鹰纪实,金鹰纪实,金鹰纪实高清
+金鹰卡通#金鹰卡通,金鹰卡通,金鹰卡通高清
+江苏卫视#江苏卫视,江苏卫视,江苏卫视高清
+优漫卡通#优漫卡通,优漫卡通,优漫卡通高清
+浙江卫视#浙江卫视,浙江卫视,浙江卫视高清
+北京卫视#北京卫视,北京卫视,北京卫视高清
+卡酷动画#卡酷动画,卡酷动画,卡酷动画高清
+广东卫视#广东卫视,广东卫视,广东卫视高清
+嘉佳卡通#嘉佳卡通,嘉佳卡通,嘉佳卡通高清
+深圳卫视#深圳卫视,深圳卫视,深圳卫视高清
+黑龙江卫视#黑龙江卫视,黑龙江卫视,黑龙江卫视高清
+湖北卫视#湖北卫视,湖北卫视,湖北卫视高清
+山东卫视#山东卫视,山东卫视,山东卫视高清
+山东教育#山东教育,山东教育,山东教育高清
+四川卫视#四川卫视,四川卫视,四川卫视高清
+安徽卫视#安徽卫视,安徽卫视,安徽卫视高清
+重庆卫视#重庆卫视,重庆卫视,重庆卫视高清
+天津卫视#天津卫视,天津卫视,天津卫视高清
+东南卫视#东南卫视,东南卫视,东南卫视高清
+厦门卫视#厦门卫视,厦门卫视,厦门卫视高清
+河南卫视#河南卫视,河南卫视,河南卫视高清
+江西卫视#江西卫视,江西卫视,江西卫视高清
+吉林卫视#吉林卫视,吉林卫视,吉林卫视高清
+贵州卫视#贵州卫视,贵州卫视,贵州卫视高清
+辽宁卫视#辽宁卫视,辽宁卫视,辽宁卫视高清
+河北卫视#河北卫视,河北卫视,河北卫视高清
+云南卫视#云南卫视,云南卫视,云南卫视高清
+山西卫视#山西卫视,山西卫视,山西卫视高清
+甘肃卫视#甘肃卫视,甘肃卫视,甘肃卫视高清
+宁夏卫视#宁夏卫视,宁夏卫视,宁夏卫视高清
+海南卫视#海南卫视,海南卫视,海南卫视高清
+广西卫视#广西卫视,广西卫视,广西卫视高清
+青海卫视#青海卫视,青海卫视,青海卫视高清
+西藏卫视#西藏卫视,西藏卫视,西藏卫视高清
+新疆卫视#新疆卫视,新疆卫视,新疆卫视高清
+兵团卫视#兵团卫视,兵团卫视,兵团卫视高清
+内蒙古卫视#内蒙古卫视,内蒙古卫视,内蒙古卫视高清
+星空卫视#星空卫视
+广东南方卫视#南方卫视
+珠江台#珠江台
+金鹰卡通#金鹰卡通
+魅力足球#魅力足球
+新视觉#新视觉
+广东体育#广东体育
+CCTV16#CCTV16
+广东影院#广东影院
+港　澳
+凤凰电影#凤凰电影
+凤凰香港#凤凰香港
+凤凰中文#凤凰中文
+凤凰资讯#凤凰资讯
+翡翠台#翡翠台
+明珠台#明珠台
+TVB经典台#tvb经典台
+TVB星河(粤)#TVB星河
+TVB娱乐新闻台#tvb娱乐新闻台
+功夫台#功夫台
+J2#J2
+无线财经#无线财经
+无线新闻#无线新闻台
+无线新闻#无线新闻台
+18台#18台
+Hands Up#
+HKC 18#HKC Sports Plus 1
+HKC Sports Plus 1#HKC Sports Plus 1
+HKC电影台#HKC电影台
+HKC体育台#HKC体育
+有线新闻台#有线新闻台
+HKC综合娱乐台#HKC综合娱乐台
+有线财经资讯台#有线财经资讯台
+香港603#香港603
+粤语片台#粤语片台
+直播台#Now直播台
+ViuTV#ViuTVsix
+ViuTVsix#ViuTVsix
+now新闻台#Now新闻台
+now直播台#Now直播台
+港台电视31#rhk31
+港台电视32#rhk32
+爆谷台#Now爆谷台
+爆谷星影台#爆谷星影台
+Thrill#Thrill
+香港开电视#香港开电视
+美亚电影台(粤语)#美亚电影
+亚洲剧台#亚洲剧台
+阳光卫视#阳光卫视
+星空卫视#星空卫视
+澳门-MACAU#澳门-MACAU
+澳门莲花#澳门莲花
+台　湾
+TVBS#TVBS
+TVBS欢乐台#TVBS欢乐
+TVBS精采台#TVBS精采台
+TVBS新闻台#TVBS新闻
+中天新闻台#中天新闻
+中天娱乐台#中天娱乐
+中天综合台#中天综合
+中视#中视
+中视#中视
+中视菁采台#中视菁采台
+中视经典#中视经典
+中视新闻#中视新闻
+民视#民视
+民视#民视
+民视第一台#民视第一台
+民视台湾台#民视台湾台
+民视新闻台#民视新闻
+台视#台视
+台视#台视
+台视财经台#台视财经
+台视新闻台#台视新闻
+华视#华视
+华视#华视
+华视新闻#华视新闻
+公视#公视
+公视#公视
+公视三台#公视3
+公视2#公视2
+东森财经新闻台#东森财经
+东森电影台#东森电影
+东森戏剧台#东森戏剧
+东森新闻台#东森新闻台
+东森新闻台#东森新闻台
+东森洋片台#东森洋片
+东森YOYO台#东森幼幼
+东森综合台#东森综合
+靖天电影台#靖天电影
+靖天卡通台#靖天卡通
+靖天日本台#靖天日本
+靖天戏剧台#靖天戏剧
+靖天映画#靖天映画
+靖天育乐台#靖天育乐
+靖天资讯台#靖天资讯
+靖天综合台#靖天综合
+靖洋卡通台#靖洋卡通
+八大第一台#八大第一
+八大戏剧#八大戏剧
+八大优#八大优频道
+八大娱乐台#八大娱乐
+八大综合台#八大综合
+EVE#eve
+EYE旅游#EYE旅游
+EYE戏剧#EYE戏剧
+三立都会台#三立都会台
+三立台湾台#三立台湾台
+三立戏剧台#三立戏剧台
+三立新闻台#三立新闻台
+三立综合台#三立综合台
+纬来电影台#纬来电影
+纬来精采#纬来精采台
+纬来日本台#纬来日本
+纬来体育台#纬来体育
+纬来戏剧台#纬来戏剧
+纬来育乐台#纬来育乐
+纬来综合台#纬来综合
+寰宇新闻#寰宇新闻
+寰宇新闻TW#寰宇新闻
+非凡商业台#非凡商业
+非凡新闻台#非凡新闻
+壹电视新闻台#壹电视新闻台
+壹电视综合台#壹电视综合台
+东森超视#东森超视
+高点综合台#高点综合台
+国兴卫视#国兴卫视
+韩国娱乐台KMTV#韩国娱乐台 KMTV
+靖洋戏剧台#靖洋戏剧
+年代新闻台#年代新闻
+霹雳台湾台#霹雳台湾
+卫视中文台#卫视中文
+星卫娱乐#星卫娱乐
+国会频道1#国会频道1
+国会频道2#国会频道1
+马来西亚
+Astro小太阳#Astro小太阳
+Astro双星#Astro双星
+Astro全佳#Astro全佳
+Astro欢喜台#Astro欢喜
+Astro欢喜台#Astro欢喜
+Astro Warna HD#Astro Warna HD
+Astro Vinmeen#Astro Vinmeen
+Astro Vaanavil#astro Vaanavil
+Astro Tutor TV SPM#Astro Tutor TV SK
+Astro Tutor TV SK#Astro Tutor TV SK
+Astro Ria HD#astro Ria
+Astro Rania HD#astro Rania
+Astro Prima HD#astro Prima
+Astro Oasis HD#astro Oasis
+Astro Cricket#Astro Cricket
+Astro Citra HD#astro Ceria
+Astro Ceria#astro Ceria
+Astro Awani#Astro Awani
+Astro Aura HD#astro Aura
+Astro Arena#astro Arena
+Astro Arena 2#Astro Arena 2
+Astro AOD HD 311#Astro AOD HD 311
+Astro AOD 354#Astro AOD 354
+Astro AOD 352#Astro AOD 352
+Astro AEC#astro AEC
+Astro AEC#astro AEC
+Adithya#Adithya
+ABO Movies Thangathirai HD#ABO Movies Thangathirai
+ABC Australia#ABC Australia
+8TV#8TV
+中天亚洲台#中天亚洲
+天映频道#天映频道
+天映经典#天映经典
+翡翠台#翡翠台
+爱奇艺#爱奇艺
+Zee Tamil#Zee Tamil
+TVBS#TVBS
+TVB娱乐新闻台#tvb娱乐新闻台
+TVB星河频道#TVB星河
+TVB经典台#tvb经典台
+TVBS亚洲#TVBS
+TV9#TV9
+TV3#TV3
+TV2#TV2
+TV1#TV1
+TV Okey#TV Okey
+TA-DAA!#TA-DAA!
+SUN TV#SUN TV
+Sun Music#Sun Music
+Star Vijay#StarMovies
+SPOTV#SPOTV
+Sky News#Sky News
+SHOWCASE MOVIES#SHOWCASE MOVIES
+PrimeTime Channel#Prima
+ONE#one
+Oh!K#Oh!K
+NTV7#NTV7
+Nickelodeon#Nickelodeon Junior
+NickJr.#NickJr.
+KIX#KIX
+KBS World#KBS World
+France24#France24(French)
+DW#DW(English)
+Drama Sangat#DramaSangat
+Colors Tamil#Colors Tamil
+Colors Hindi#ColorsHindi
+CNN#CNN
+CNBCHongKong#CNBCAsiaChannel
+Chutti TV#ChuttiTV
+CGTN#CGTN
+Cartoon Network#CartoonNetwork
+Boomerang#Boomerang
+BOO#Boomerang
+BollyOne#BollyOne
+BloombergTV#BloombergTelevision
+BERNAMA#Bernama
+Berita RTM#BeritaRTM
+AXN#AXN
+Awesome TV#AwesomeTV
+新加坡
+CNA#CNA
+Mediacorp 5#Mediacorp 5
+Mediacorp 8#Mediacorp 5
+Mediacorp U#Mediacorp 5
+中天亚洲台#中天亚洲
+卫视电影台#卫视电影台
+东森亚洲卫视#东森亚洲卫视
+Vasantham#Vasantham
+TVB星河#TVB星河
+TVBS亚洲#TVBS
+TV5Monde#TV5Monde
+Thrill#Thrill
+
+ONE#One
+Oh!K#Oh!K
+Nickelodeon#NICK卡通
+NickJr.#NICK卡通
+NBA#NBA
+KBS World#KBS World
+
+HITS#HITS
+HGTV居家乐活频道#HGTV居家乐活频道
+GEM#GEM
+Fox News#Fox News
+Euronews#Euronews
+Colors Hindi#ColorsHindi
+CNBC#CNBCAsiaChannel
+CGTN#CGTN
+Cartoon Network#CartoonNetwork
+Boomerang#Boomerang
+Bloomberg TV#BloombergTelevision
+BBC World News#BBC earth
+AXN亚洲#axn
+Arirang#ArirangTV
+日　本
+NHK-G综合#NHK
+NHK-E教育#NHK
+日本テレビ#日本テレビ
+TBSテレビ#TBSテレビ
+テレビ东京#テレビ东京
+フジテレビ#フジテレビ
+読売テレビ#読売テレビ
+关西テレビ#关西テレビ
+KBS京都#KBS京都
+毎日放送#毎日放送
+朝日放送#朝日放送
+テレビ大阪#テレビ大阪
+テレビ朝日#テレビ朝日
+BS-1#BS-1
+BSプレミアム#BSプレミアム
+BS日テレ#BS日テレ
+BS朝日#BS朝日
+BS-TBS#BS-TBS
+BS11#BS11
+BSフジ#BSフジ
+WOWOWプライム#wowow
+WOWOWライブ#wowow
+WOWOWシネマ#wowow
+スター・チャンネル1#スター・チャンネル1
+スター・チャンネル2#スター・チャンネル2
+スター・チャンネル3#スター・チャンネル3
+BSアニマックス#BSアニマックス
+J Sports 1#J Sports 4
+J Sports 2#J Sports 4
+J Sports 3#J Sports 4
+J Sports 4#J Sports 4
+BS12#BS12
+ゴルフネットワークHD#ゴルフネットワークHD
+时代剧専门チャンネル#时代剧専门チャンネル
+Music Japan TV#Music Japan TV
+キッズステーションHD#キッズステーションHD
+ディスカバリーチャンネル#ディスカバリーチャンネル
+ナショナルジオグラフィック#ナショナルジオグラフィック
+日テレNEWS 24#日テレNEWS 24
+旅チャンネル#旅チャンネル
+ファミリー剧场#ファミリー剧场
+韩　国
+Arirang#ArirangTV
+KBS1#KBS1
+KBS2#KBS2
+KBS Drama#KBS Drama
+KBS Joy#KBS Joy
+SBS#SBS
+SBS Biz#SBS Biz
+JTBC#JTBC
+EBS#ebs1
+YTN#YTN
+Mnet#Mnet
+tvN#TVN
+OCN#OCN Movies
+OCN Movies#OCN Movies
+TV Chosun#TV Chosun
+MBC#MBC
+MBN#MBN
+Tooniverse#TOONEE
+SPOTV#SPOTV
+SPOTV 2#SPOTV 2
+JTBC GOLF#JTBC GOLF
+印　尼#
+tvN Movies HD#tvN Movies HD
+Indosiar#Indosiar
+RCTI#RCTI
+泰　国
+Channel 5#
+NBT#NBT
+TNN 16#TNN 16
+JKN 18#JKN 18
+Voice TV#Voice TV
+Nation TV#Nation TV
+Workpoint TV#Workpoint TV
+true4U#True Sport 2
+GMM 25#GMM 25
+
+Mono 29#Mono 29
+MCOT#MCOT
+ONE#ONE
+Thairath TV#Thai Parliament TV
+
+Amarin TV#Amarin TV
+
+PPTV#PPTV
+Boomerang#Boomerang
+Toonee#TOONEE
+Thai Parliament TV#Thai Parliament TV
+Thai PBS#Thai Parliament TV
+News 1#News 1
+Zee Nung#Zee Tamil
+
+
+Bluesky#BlueAntEntertainment
+
+True Sport 2#True Sport 2
+True Sport 3#True Sport 2
+True Sport 4#True Sport 2
+True Sport 5#True Sport 2
+True Sport 7#True Sport 2
+菲律宾
+Cartoon Network#CartoonNetwork
+Nickelodeon#NICK卡通
+Nick Jr.#NICK卡通
+Boomerang#Boomerang
+GMA#GMALifeTV
+TV5#TV5Monde
+Golf Channel Philippines#GolfChannel
+印　度
+SUN TV#SUN TV
+CNBC Awaaz#CNBCAsiaChannel
+India TV#India TV
+Janam TV#Janam TV
+Colors Tamil#Colors Tamil
+NDTV#NDTV
+Sun Music#Sun Music
+Chutti TV#Chutti TV
+Adithya#Adithya
+Star Vijay#Star Vijay
+Zee Tamil#Zee Tamil
+美　国
+CNN#CNN
+CNBC#CNBC
+BloombergTV#BloombergTV
+ESPN#ESPN
+CBSN#CBSN
+Fox#Fox News
+Food Network#Food Network
+NBA#NBA
+加拿大
+
+Salt + Light Television#Salt + Light Television
+BBC Toronto Gaunda Punjab#BBC Toronto Gaunda Punjab
+
+
+Télé-Québec#Télé-Québec
+
+ICI Montreal#ICI Montreal
+NETV Toronto#Toronto
+Ontario Parliamentary Network#Ontario Parliamentary Network
+
+Prime Canada TV#Prime Canada TV
+
+Tamil Vision TV#Tamil Vision TV
+Toronto 360 TV#Toronto
+TV 16 Toronto#Toronto
+
+Ontario Parliamentary Network (FR)#
+Fight Network#Fight Network
+Heartland#Heartland
+Canal de l'Assemblée nationale#Canal de l'Assemblée nationale
+CPAC#CPAC
+ICI RDI#ICI RDI
+
+Sanjha Punjab#Sanjha Punjab
+
+国内新闻
+中天新闻台#中天新闻
+中视新闻#中视新闻
+壹电视新闻台#壹电视新闻台
+无线新闻#无线新闻台
+无线财经#无线财经
+台视新闻台#台视新闻
+台视财经台#台视财经
+三立新闻台#三立新闻台
+三立iNEWS#三立iNEWS
+年代新闻台#年代新闻
+民视新闻台#民视新闻
+寰宇新闻台湾台#寰宇新闻
+寰宇新闻#寰宇新闻
+华视新闻#华视新闻
+非凡新闻台#非凡新闻
+非凡商业台#非凡商业
+东森新闻台#东森新闻台
+东森财经新闻台#东森财经
+TVBS新闻台#TVBS
+now直播台#Now直播台
+now新闻台#NOW新闻
+NHK新闻资讯台#NHK新闻资讯台
+JKN 18#JKN 18
+有线新闻台#有线新闻台
+有线财经资讯台#有线财经资讯台
+海外新闻
+TNN 16#TNN 16
+Sky News#Sky News
+NHK新闻资讯台#NHK新闻资讯台
+France24#France24(French)
+FOX#Fox News
+Fox News#Fox News
+Euronews#Euronews
+DW#DW
+CNN#CNN
+CNBC#CNBCAsiaChannel
+CNBC Awaaz#CNBCAsiaChannel
+CNA#CNA
+CGTN#CGTN
+CBSN#CBSN
+BloombergTV#BloombergTelevision
+BBC World News#BBC earth
+Arirang#ArirangTV
+Al-Hijrah#Al-Hijrah
+Al Jazeera English#Al Jazeera English
+音　乐
+MTV#MTVAsia
+MTV Live#MTV Live
+MEZZOLIVEHD#MezzoLiveHD
+CLASSICA 古典乐#CLASSICA古典音乐
+CMusic#CMusic
+Sun Music#Sun Music
+国内体育
+CCTV16#CCTV1
+CCTV5#CCTV1
+CCTV5+#CCTV1
+ELEVEN体育一台#Eleven Sports1
+ELEVEN体育二台#Eleven Sports1
+HKC 18#HKC Sports Plus 1
+香港603#香港603
+HKC Sports Plus 1#HKC Sports Plus 1
+HKC体育台#HKC体育
+爱尔达体育1台(备)#爱尔达体育1
+爱尔达体育1台#爱尔达体育1
+爱尔达体育2#爱尔达体育1
+爱尔达体育3台(备)#爱尔达体育1
+爱尔达体育3台#爱尔达体育1
+博斯高球1台#博斯高球1
+博斯高球2台#博斯高球1
+博斯魅力网#博斯魅力网
+博斯网球台#博斯网球
+博斯无限二台#博斯无限
+博斯无限台#博斯无限
+博斯运动一台#博斯运动1
+博斯运动二台#博斯运动1
+广东体育#广东体育
+魅力足球#魅力足球
+纬来体育台#纬来体育
+纬来育乐台#纬来育乐
+新视觉#新视觉
+智林体育#智林体育
+海外体育
+Z频道#Z频道
+WWE#WWE
+True Sport 7#True Sport 7
+True Sport 5#True Sport 5
+True Sport 4#True Sport 4
+True Sport 3#True Sport 3
+True Sport 2#True Sport 2
+TRACE Sport Stars#TRACESPORTSTARSwhite
+SPOTV#SPOTV
+spotv2#spotv2
+Skynet Sports HD#SkyNews
+Skynet Sports 6#SkyNews
+Skynet Sports 5#SkyNews
+Skynet Sports 2#SkyNews
+RTM Sport#RTM Sport
+Premier Sports#Premier Sports
+NBA#NBA
+J Sports 4#J Sports 4
+J Sports 3#J Sports 4
+J Sports 2#J Sports 4
+J Sports 1#J Sports 4
+Hub Sports 3#Hub Sports 1
+Hub Sports 2#Hub Sports 1
+Hub Sports 1#Hub Sports 1
+Golf Channel#GolfChannel
+Golf Channel Philippines#GolfChannel
+Fight Sports#FIGHTSPORTS
+Eurosport#Euronews
+ESPN#ESPN
+eGG Network#eGG Network
+beIN Sports#beINSPORTS1
+beIN Sports 3#beINSPORTS1
+beIN Sports 2#beINSPORTS1
+Astro SuperSport#Astro SuperSport
+Astro SuperSport 5#Astro SuperSport
+Astro SuperSport 4#Astro SuperSport 4
+Astro SuperSport 3#Astro SuperSport 3
+Astro SuperSport 2#Astro SuperSport 2
+Astro Cricket#Astro Cricket
+Astro Arena#Astro Arena
+Astro Arena 2#Astro Arena 2
+Fight Sports#FIGHTSPORTS
+地理探索
+国家地理频道#国家地理频道
+国家地理野生频道#国家地理悠人
+动物星球#动物星球
+DMAX#DMAX
+DMAX#DMAX
+DiscoveryAsia#DiscoveryAsia
+Discovery科学#Discovery科学
+Nat Geo Wild#Nat Geo Wild
+Love Nature#Love Nature
+Discovery#Discovery
+Outdoor#Outdoor
+History#HISTORY 2
+CI#CI罪案侦查频道
+历史频道#历史频道
+BBCEarth#BBCEarth
+CCTV9#CCTV9
+亚洲美食频道#亚洲美食
+亚洲旅游台#亚洲旅游
+时尚频道#时尚频道
+美食星球#美食星球
+达文西频道#达文西频道
+TV5Monde#TV5Monde
+TV5MONDE Style 生活时尚#TV5Monde
+亚洲旅游台#亚洲旅游
+TLC旅游生活频道#TLC旅游生活频道
+LUXETV#LUXETVChannel
+Lifetime#Lifetime娱乐频道
+KLT-靖天国际台#KLT-靖天国际台
+HGTV居家乐活频道#HGTV居家乐活频道
+Food Network#FoodNetwork美食台频道
+EYE旅游#EYE旅游
+EVE#eve
+Ettoday#ETtoday综合
+ELTV#ELTV
+BBCLifestyle#BBC Lifestyle
+少儿动漫
+Nickelodeon#NICK卡通
+靖洋卡通台Nice Bingo#靖洋卡通台Nice Bingo
+靖天卡通台#靖天卡通
+金鹰卡通#金鹰卡通
+达文西频道#达文西频道
+Nickelodeon#Nickelodeon
+NickJr.#NickJr.
+MOMO亲子台#MOMO亲子台
+iFun1#iFun1
+Hands Up#HandsUpChannel
+DREAMWORKS#DreamWorks频道
+CN卡通频道#CN卡通频道
+CCTV14#CCTV14
+CBeebies#CBeebies
+Cartoon Network#CartoonNetwork
+Boomerang#Boomerang
+Baby TV#Baby TV
+Astro小太阳#Astro小太阳
+Astro Ceria#Astro Ceria
+Animax#Animax
+电　影
+天映频道#天映频道
+天映频道#天映频道
+天映经典#天映经典
+天映经典#天映经典
+美亚高清电影台#美亚高清电影台
+美亚电影台(粤语)#美亚电影
+LSTime电影台#LSTime电影台
+龙华电影#龙华电影
+靖天映画#靖天映画
+靖天电影台#靖天电影
+好莱坞电影台#好莱坞电影
+影迷数位电影#影迷数位纪实
+壹电视电影台#壹电视电影台
+星卫HD电影#星卫HD电影
+卫视电影台#卫视电影台
+纬来育乐台#纬来育乐
+纬来电影台#纬来电影
+凤凰电影台#凤凰电影
+东森洋片台#东森洋片
+东森电影台#东森电影
+采昌影剧#采昌影剧
+爆谷星影台#爆谷星影台
+爆谷台#爆谷台
+爱尔达综合#爱尔达综合
+爱尔达影剧#爱尔达影剧
+WarnerTV#WARNER TV
+tvN#TVN
+tvN Movies HD#tvN Movies HD
+Thrill#Thrill
+StarMoviesHD#StarMovies
+SHOWCASE MOVIES#SHOWCASE MOVIES
+HKC电影台#HKC电影台
+HITS#HITS
+HITS Movies#HITS Movies
+HBOSignature#HBOSignature
+HBOHitsm#HBOHits
+HBO#HBO Family
+HBOFamily#HBOFamily
+CINEMAX#CinemaWorld
+CinemaWorld#CinemaWorld
+CCTV6#CCTV1
+CatchPlay电影台#CatchPlay电影台
+BOO#Boomerang
+AXN#AXN
+AMC#AMC
+戏　剧
+东森戏剧台#东森戏剧
+八大戏剧台#八大戏剧
+纬来戏剧台#纬来戏剧
+三立戏剧#三立戏剧台
+龙华戏剧#龙华戏剧
+靖天戏剧台#靖天戏剧
+靖洋戏剧台#靖洋戏剧
+EYE戏剧#EYE戏剧
+爱尔达影剧台#爱尔达影剧
+Hub娱家#
+亚洲剧台#亚洲剧台
+    _6100
+彩虹e台#彩虹e台
+彩虹电影台#彩虹电影
+LOOK TV#look
+潘朵啦玩美台#
+惊艳电影台#惊艳台
+松视1台#松视1台
+松视2台#松视2台
+潘朵啦粉虹台#
+PLAYBOY#playboy
+香蕉台#香蕉台
+
+松视3台#松视3台
+JStar极限台#JStar极限台
+HAPPY#happy
+松视1台#松视1台
+松视1台#松视1台
+松视1台#松视1台
+松视2台#松视2台
+松视2台#松视2台
+松视2台#松视2台
+松视3台#松视3台
+松视3台#松视3台
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
